@@ -1,2 +1,2 @@
 Codigo: abc
-compañeros nuevos: tres compañeros
+compañeros nuevos: 3 compañeros
